@@ -71,7 +71,7 @@ typedef struct{
         }
     }
     void show(){
-        if(first == NULL){
+        if(this->first == NULL){
             std::cout << "The list is empty!" << std::endl;
         } else {
             int i = 0;

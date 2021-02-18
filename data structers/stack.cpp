@@ -5,8 +5,8 @@ int manu(){
     printf ("\n\n Stack of names managment\n\n");
     printf (" 0 - End the program\n");
     printf ("\n");
-    printf (" 1 - Push item to the file \n");
-    printf (" 2 - Pop item from the file\n");
+    printf (" 1 - Push item to the stack \n");
+    printf (" 2 - Pop item from the stack\n");
     printf (" 3 - Print out the file\n");
     printf ("\n");
     printf ("What's your choice ? : ");
