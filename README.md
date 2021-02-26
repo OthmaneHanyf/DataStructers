@@ -2,7 +2,7 @@
 * Data Structers:
     * Linked list
     * Stack (LIFO linked list)
-    * File (FIFO linked list)
+    * Queue (FIFO linked list)
     * Binary tree
 * Algorithms :
     * Sort an array using __bubble sort__
